@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "authenticate-pam": "^1.0.2"
+    "authenticate-pam": "^1.0.2",
+    "q": "^1.5.1"
   }
 }
